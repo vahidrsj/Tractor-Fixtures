@@ -174,7 +174,7 @@ BEGIN:VEVENT
 UID:24@tractor
 DTSTAMP:20251216T153302Z
 DTSTART;TZID=Europe/Amsterdam:20251222T170000
-SUMMARY:Tractor vs Al-Duhail -Qatar
+SUMMARY:Tractor vs Al-Duhail -Qatar [2-1]
 DESCRIPTION:AFC Champions League Elite - Week 6
 END:VEVENT
 BEGIN:VEVENT
